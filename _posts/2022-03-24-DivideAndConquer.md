@@ -9,8 +9,8 @@
 * 색종이 전체가 같은 숫자가 될 때까지 색종이를 4등분으로 분할함
 * 색종이 전체가 같은 숫자가 되면 색종이의 크기만큼 해당 색의 개수를 증가시킴
 ## 구현
-``` java
 
+```java
 import java.util.*;
 
 public class DivideandConquer {
